@@ -1,4 +1,4 @@
-## Hello World size comparasion
+## Hello World size comparison
 
 W4 2.5.1\
 WASI SDK 14.0-1\

@@ -1,7 +1,7 @@
 ## Hello World size comparasion
 
-W4 2.5.1
-WASI SDK 14.0-1
+W4 2.5.1\
+WASI SDK 14.0-1\
 LLVM 14.0.0
 
 | Language       | Size (in bytes) | Version                       |
